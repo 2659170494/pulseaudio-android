@@ -35,3 +35,4 @@ stamp-*
 .dirstamp
 *.orig
 *.rej
+/arm64-v8a
